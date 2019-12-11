@@ -1,3 +1,7 @@
+### 0.1.10
+* added platform 'browser' 
+
+
 ### 0.1.9
 * Renamed Windows8 platform to Windows 
 
